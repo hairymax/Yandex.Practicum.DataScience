@@ -1,2 +1,5 @@
 .vscode/
 Материалы/
+*.ipynb_checkpoints
+*.csv
+*/datasets*
