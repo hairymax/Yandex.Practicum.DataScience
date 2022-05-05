@@ -2,3 +2,5 @@
 Материалы/
 datasets/
 *.ipynb_checkpoints
+*.catboost_info
+*.html
