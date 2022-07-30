@@ -3,14 +3,14 @@
 В данном репозитории собраны проекты, выполненные в процессе обучения по программе профессиональной переподготовки [Специалист по Data Science](https://practicum.yandex.ru/data-scientist/) в Яндекс.Практикум
 
 ## Сертификат ([Русский](sertificate/Алёшин_Максим_Сергеевич_20222DS00349.pdf) | [English](sertificate/Maxim_Aleshin_20222DS00349.pdf))
-[![Сертификат](sertificate/cover.png)]()
+[![Сертификат](sertificate/cover.png)](sertificate/Алёшин_Максим_Сергеевич_20222DS00349.pdf)
 
 `hmpipes.py` - содержит скрипты для автоматизации некоторых DataScience задач, которые были написаны в процессе работы над проектами
 ## Описание проектов
 
 | Проект | Описание | Библиотеки &nbsp; &nbsp; | Навыки &nbsp; &nbsp; |
 |---|---|---|---|
-| [Прогнозирование оттока клиентов оператора связи](https://github.com/hairymax/Yandex.Practicum.DataScience/tree/main/14%20%D0%9F%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D1%82%D1%82%D0%BE%D0%BA%D0%B0%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%20%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8) | Прогнозирование разрыва договора на оказание услуг оператором связи для планирования промоакций с целью удержания клиентов | `LightGBM` `NumPy` `CatBoost` `Pandas` `Sklearn` `Seaborn` `Matplotlib` | `ML`<br>`Data Analysis` |
+| [Прогнозирование оттока клиентов оператора связи](14 Прогнозирование оттока клиентов оператора связи) | Прогнозирование разрыва договора на оказание услуг оператором связи для планирования промоакций с целью удержания клиентов | `LightGBM` `NumPy` `CatBoost` `Pandas` `Sklearn` `Seaborn` `Matplotlib` | `ML`<br>`Data Analysis` |
 | [Компьютерное зрение](https://github.com/hairymax/Yandex.Practicum.DataScience/tree/main/13%20%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%BE%D0%B5%20%D0%B7%D1%80%D0%B5%D0%BD%D0%B8%D0%B5) | Определение приблизительного возраста человека по фотографии | `Keras` `NumPy` `PIL` `Matplotlib` | `ML`<br>`Computer Vision` |
 | [Классификация текстовых комментариев](https://github.com/hairymax/Yandex.Practicum.DataScience/tree/main/12%20%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F%20%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D1%85%20%D0%BA%D0%BE%D0%BC%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%80%D0%B8%D0%B5%D0%B2) | Классификация текстовых комментариев на позитивные и негативные | `LightGBM` `Pandas` `Sklearn` `Seaborn` `NLTK` `Matplotlib` | `ML`<br>`NLP` `tf-idf` |
 | [Прогнозирование количества заказов такси](https://github.com/hairymax/Yandex.Practicum.DataScience/tree/main/11%20%D0%9F%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BA%D0%BE%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2%20%D1%82%D0%B0%D0%BA%D1%81%D0%B8) | Модель машинного обучения для прогнозирования спроса на такси на следующий час | `CatBoost` `NumPy` `LightGBM` `Pandas` `Sklearn` `Seaborn` `Statsmodels` `Matplotlib` | `ML`<br>`Time Series` |
