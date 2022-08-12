@@ -1,4 +1,4 @@
-# Компьютерное зрение
+## [Компьютерное зрение](https://nbviewer.org/github/hairymax/Yandex.Practicum.DataScience/blob/main/13%20%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%BE%D0%B5%20%D0%B7%D1%80%D0%B5%D0%BD%D0%B8%D0%B5/project13.ipynb)
 
 ### Цель
 
@@ -27,4 +27,3 @@
 - Использована предобученная сеть **ResNet50**
 - За 20 эпох обучения сети удалось достичь значения `MAE = 6.705`
 
-### [Тетрадь "Компьютерное зрение" в nbviewer](https://nbviewer.org/github/hairymax/Yandex.Practicum.DataScience/blob/main/13%20%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%BE%D0%B5%20%D0%B7%D1%80%D0%B5%D0%BD%D0%B8%D0%B5/project13.ipynb)

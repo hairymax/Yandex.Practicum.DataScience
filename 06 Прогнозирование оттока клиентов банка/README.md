@@ -1,4 +1,4 @@
-# Прогнозирование оттока клиентов банка
+## [Прогнозирование оттока клиентов банка](https://nbviewer.org/github/hairymax/Yandex.Practicum.DataScience/blob/main/06%20%D0%9F%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D1%82%D1%82%D0%BE%D0%BA%D0%B0%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%20%D0%B1%D0%B0%D0%BD%D0%BA%D0%B0/project6.ipynb)
 
 ### Цель
 
@@ -21,4 +21,3 @@
 
 Построены, обучены и протестированы различные модели, выбрана лучшая с `f1_score = 0.624`
 
-### [Тетрадь "Прогнозирование оттока клиентов банка" в nbviewer](https://nbviewer.org/github/hairymax/Yandex.Practicum.DataScience/blob/main/06%20%D0%9F%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D1%82%D1%82%D0%BE%D0%BA%D0%B0%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%20%D0%B1%D0%B0%D0%BD%D0%BA%D0%B0/project6.ipynb)
